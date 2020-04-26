@@ -1,0 +1,14 @@
+
+WSAD = Movement
+Mouse = Look
+Space Bar = Jump
+C = Crouch
+L_Shift = Jog / Hold for Run
+
+Gamepad:
+
+L Stick = Movement
+R Stick = Look
+R Hat Switch = Crouch
+L Hat Switch = Jog > Hold for Run > Walk >
+

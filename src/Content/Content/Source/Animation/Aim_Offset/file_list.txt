@@ -1,0 +1,20 @@
+W:\MoCap Packs\UE4\_FBX_MASTERS\Mobility_PRO_v27\Aim_Offset\
+
+MOB1_Crouch_Look_Center.fbx
+MOB1_Crouch_Look_D90.fbx
+MOB1_Crouch_Look_L90.fbx
+MOB1_Crouch_Look_LD45.fbx
+MOB1_Crouch_Look_LU45.fbx
+MOB1_Crouch_Look_R90.fbx
+MOB1_Crouch_Look_RD45.fbx
+MOB1_Crouch_Look_RU45.fbx
+MOB1_Crouch_Look_U90.fbx
+MOB1_Stand_Relaxed_Look_Center.fbx
+MOB1_Stand_Relaxed_Look_D90.fbx
+MOB1_Stand_Relaxed_Look_L90.fbx
+MOB1_Stand_Relaxed_Look_LD45.fbx
+MOB1_Stand_Relaxed_Look_LU45.fbx
+MOB1_Stand_Relaxed_Look_R90.fbx
+MOB1_Stand_Relaxed_Look_RD45.fbx
+MOB1_Stand_Relaxed_Look_RU45.fbx
+MOB1_Stand_Relaxed_Look_U90.fbx
